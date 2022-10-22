@@ -8,15 +8,15 @@
         <form action="addAlien" method="post">
             <table>
                 <tr>
-                    <td>Enter your name:</td>
+                    <td>Please Enter your name:</td>
                     <td><input type="text" name="aname"></td>
                 </tr>
                 <tr>
-                    <td>Enter your id:</td>
+                    <td>Please Enter your id:</td>
                     <td><input type="text" name="aid"></td>
                 </tr>
                 <tr>
-                    <td>Enter your tech:</td>
+                    <td>Kindly Enter your tech:</td>
                     <td><input type="text" name="tech"></td>
                 </tr>
                 <tr>
@@ -30,7 +30,7 @@
         <form action="getAlien" method="post">
             <table>
                 <tr>
-                    <td>Enter your id:</td>
+                    <td>Why don't you Enter your id:</td>
                     <td><input type="text" name="aid"></td>
                 </tr>
                 <tr>
