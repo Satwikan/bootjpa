@@ -11,7 +11,12 @@ public class Alien {
     private int aid;
     private String aname;
     private String tech;
-
+    
+//     public String getTech() {
+//         return tech;
+//     }
+    
+    // will get Tech
     public String getTech() {
         return tech;
     }
@@ -31,7 +36,13 @@ public class Alien {
     public String getAname() {
         return aname;
     }
-
+    
+    
+//     public void setAname(String aname) {
+//         this.aname = aname;
+//     }
+    
+    // will get name
     public void setAname(String aname) {
         this.aname = aname;
     }
